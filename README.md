@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # HTML-CSS-JS Sample Site by mrKevler 💫
 
 **Repository:** [github.com/mrkevler/html-css-js-sample-site](https://github.com/mrkevler/html-css-js-sample-site)
@@ -217,7 +216,3 @@ git clone https://github.com/mrkevler/html-css-js-sample-site.git
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FF8000?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://www.buymeacoffee.com/mrkevler)
 
 Crafted with ♥ by [mrKevler](https://github.com/mrkevler)
-=======
-# html-css-js-sample-site
-HTML-CSS-JS Sample Site Tutorial by mrKevler
->>>>>>> 7c1a2c41b8de773a60dd184395344aa144ea807c
