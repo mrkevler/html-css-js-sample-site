@@ -6,8 +6,7 @@
 **Demo** 🌐 [mrkevler.github.io/html-css-js-sample-site](https://mrkevler.github.io/html-css-js-sample-site/)
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-![GitHub](https://img.shields.io/badge/GitHub-mrkevler-green) ![License](https://img.shields.io/badge/License-CC%20BY--NC-blue)  
-![Repo Size](https://img.shields.io/github/repo-size/mrkevler/html-css-js-sample-site) ![Last Commit](https://img.shields.io/github/last-commit/mrkevler/html-css-js-sample-site)  
+![License](https://img.shields.io/badge/License-CC%20BY--NC-blue) ![Repo Size](https://img.shields.io/github/repo-size/mrkevler/html-css-js-sample-site) ![Last Commit](https://img.shields.io/github/last-commit/mrkevler/html-css-js-sample-site) ![GitHub](https://img.shields.io/badge/GitHub-mrkevler-green)
 [![Buy Me a Coffee](https://img.shields.io/badge/Support-Buy%20Me%20a%20Coffee-yellow)](https://buymeacoffee.com/mrkevler)
 
 ## 🔍 Table of Contents
